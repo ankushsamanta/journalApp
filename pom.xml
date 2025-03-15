@@ -29,7 +29,8 @@
 	</scm>
 	<properties>
 		<java.version>21</java.version>
-		<sonar.token>squ_1c1f8040493e07925275e85a2d18f454d0b90501</sonar.token>
+		<sonar.organization>ankush-code</sonar.organization>
+  		<sonar.host.url>https://sonarcloud.io</sonar.host.url>
 	</properties>
 	<dependencies>
 		<dependency>
